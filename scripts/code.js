@@ -1,0 +1,1 @@
+document.getElementById('subTitle').innerHTML = "The Geekiest Hotel on Earth";
